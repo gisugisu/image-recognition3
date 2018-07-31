@@ -22,7 +22,7 @@ if(a==2):
 
 ## 実行結果
 この動画は
-- https://youtu.be/yXwdlBbQFIE
+- https://youtu.be/yXwdlBbQFIE  
 この動画は
 - https://youtu.be/KvCsyPKursM
 
