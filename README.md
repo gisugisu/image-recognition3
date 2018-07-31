@@ -23,7 +23,7 @@ if(a==2):
 
 
 ## 実行結果
-以下の動画は
+以下の動画はそれぞれ目を３にする動画と眼鏡をかける動画である.
 - https://youtu.be/yXwdlBbQFIE  
 - https://youtu.be/KvCsyPKursM
 
