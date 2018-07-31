@@ -21,13 +21,14 @@ if(a==2):
 
 
 ## 実行結果
+この動画は
 - https://youtu.be/yXwdlBbQFIE
-
+この動画は
 - https://youtu.be/KvCsyPKursM
 
 
 ## 参考文献
--  Python, OpenCVで顔検出と瞳検出（顔認識、瞳認識）・https://note.nkmk.me/python-opencv-face-detection-haar-cascade/
-- Github・https://github.com/opencv/opencv/tree/master/data/haarcascades
-- 【Python/OpenCV】写真・画像を漫画風に加工・https://algorithm.joho.info/programming/python/opencv-manga-filter-py/
--  Python OpenCVの基礎 resieで画像サイズを変えてみる・http://peaceandhilightandpython.hatenablog.com/entry/2016/01/09/214333
+-  Python, OpenCVで顔検出と瞳検出（顔認識、瞳認識)//https://note.nkmk.me/python-opencv-face-detection-haar-cascade/
+- Github//https://github.com/opencv/opencv/tree/master/data/haarcascades
+- 【Python/OpenCV】写真・画像を漫画風に加工//https://algorithm.joho.info/programming/python/opencv-manga-filter-py/
+-  Python OpenCVの基礎 resieで画像サイズを変えてみる//http://peaceandhilightandpython.hatenablog.com/entry/2016/01/09/214333
